@@ -8,8 +8,7 @@
 
 ---
 
-`
-
+```
 ¿Dónde está el mando?
     Si está 
         No hay problema. 
@@ -20,4 +19,4 @@
             Depende de quien tiene escusa: me acabo de sentar en el sofá, tengo la postura perfecta, tengo el gato encima, mirada de cachorro abandonado, comodín (yo me levante la última vez).
             Si tengo escusa, no cojo el mando. 
             Si no, yo cojo el mando y guardo escusa comodín para el futuro.        
-`
+```
