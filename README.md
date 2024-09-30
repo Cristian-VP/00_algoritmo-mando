@@ -1,12 +1,8 @@
 # 00_algoritmo-mando  
 
----
-
 >## ¿Quién se levanta a por el mando?
 > 
 > Algoritmo que pretende definir la lógica de quién coge el mando, entre mi pareja y yo, cuando estamos en el sofa. **Máx - 10 líneas**  
-
----
 
 ```
 ¿Dónde está el mando?
